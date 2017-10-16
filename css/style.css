@@ -1,0 +1,47 @@
+.main {
+  height: 200px;
+  width: 200px;
+}
+
+.red {
+  background-color: red;
+}
+
+.purple {
+  background-color: purple;
+  height: 100px;
+  width: 100px;
+  position: relative;
+  top: 50px;
+  left: 50px;
+}
+
+.yellow {
+  background-color: yellow;
+  height: 50px;
+  width: 50px;
+  position: relative;
+}
+
+.blue {
+  background-color: blue;
+  margin-top: 10px;
+}
+
+.green {
+  background-color: green;
+  height: 100px;
+  width: 100px;
+  position: relative;
+  top: 50px;
+  left: 50px;
+}
+
+.black {
+  background-color: black;
+  height: 50px;
+  width: 50px;
+  position: relative;
+  bottom: 50px;
+  right: 50px;
+}
